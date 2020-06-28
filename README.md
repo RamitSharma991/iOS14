@@ -2,5 +2,3 @@
 
 Whats new in SwiftUI
 - Extracted Views
-
-
