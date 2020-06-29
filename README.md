@@ -5,3 +5,4 @@ Whats new in SwiftUI
 - Data driven coding approach
 - Insets 
 - Inspecting Views for different color schemes and dynamic types
+- Xcode Previews
