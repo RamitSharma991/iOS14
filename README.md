@@ -7,6 +7,7 @@ Whats new in SwiftUI
 - Inspecting Views for different color schemes and dynamic types
 - Xcode Previews
 - Grids(Vertical and horizontal)
+- Maps
 
 
 
