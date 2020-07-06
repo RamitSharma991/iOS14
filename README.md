@@ -8,7 +8,10 @@ Whats new in SwiftUI
 - Xcode Previews
 - Grids(Vertical and horizontal)
 - Maps
-
+-
+-
+- Window Groups
+- Document Groups
 
 
 
