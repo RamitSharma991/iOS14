@@ -6,7 +6,7 @@ Whats new in SwiftUI
 - Insets 
 - Inspecting Views for different color schemes and dynamic types
 - Xcode Previews
-- Grids(Vertical and horizontal, Lazy)
+- Grids(Vertical and horizontal, Lazy, adaptive)
 - Maps
 -
 -
