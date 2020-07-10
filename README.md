@@ -16,5 +16,3 @@ Whats new in SwiftUI
 
 
 
-
-
