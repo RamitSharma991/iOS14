@@ -14,5 +14,3 @@ Whats new in SwiftUI
 - Document Groups
 
 
-
-
