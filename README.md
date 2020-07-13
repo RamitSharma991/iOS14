@@ -8,8 +8,10 @@ Whats new in SwiftUI
 - Xcode Previews
 - Grids(Vertical and horizontal, Lazy, adaptive)
 - Maps
+- Paging content(Page tabview styles, Page index view styles)
 -
 -
 - Window Groups
 - Document Groups
+- 
 
