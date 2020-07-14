@@ -1,14 +1,14 @@
 //
-//  iOS14SwiftUIApp.swift
-//  iOS14SwiftUI
+//  GridsApp.swift
+//  Grids
 //
-//  Created by Ramit sharma on 24/06/20.
+//  Created by Ramit sharma on 01/07/20.
 //
 
 import SwiftUI
 
-
-struct iOS14SwiftUIApp: App {
+@main
+struct GridsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
