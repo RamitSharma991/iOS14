@@ -15,5 +15,3 @@ Whats new in SwiftUI
 -
 - Window Groups
 - Document Groups
-- 
-
