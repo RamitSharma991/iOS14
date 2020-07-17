@@ -1,6 +1,8 @@
 # iOS14
 
-"https://img.shields.io/badge/Swift%205-SwiftUI2-brightgreen"
+<p align="center">
+<img src="https://img.shields.io/badge/Swift%205-SwiftUI2-brightgreen"/>
+</p>
 
 Whats new in SwiftUI and initial thoughts on the new features.
 
