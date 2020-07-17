@@ -10,7 +10,7 @@ Whats new in SwiftUI
 - Maps
 - Paging content(Page tabview styles, Page index view styles)
 - SpriteKit (Physics Body, Sprite nodes)
-- Color Picker
+- Color Picker, ProgressViews
 -
 -
 -
