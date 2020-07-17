@@ -1,6 +1,7 @@
 # iOS14
 
-Whats new in SwiftUI
+Whats new in SwiftUI and initial thoughts on the new features.
+
 - Extracted Views
 - Data driven coding approach
 - Insets 
@@ -11,6 +12,7 @@ Whats new in SwiftUI
 - Paging content(Page tabview styles, Page index view styles)
 - SpriteKit (Physics Body, Sprite nodes)
 - Color Picker, ProgressViews
+- Avkit
 -
 -
 -
