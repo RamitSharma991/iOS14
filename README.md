@@ -18,6 +18,7 @@ Whats new in SwiftUI and initial thoughts on the new features.
 - Color Picker, ProgressViews, Labels and Icons
 - Avkit
 - Safari Links in SwiftUI 
+- Date Picker
 -
 -
 - Window Groups
