@@ -19,6 +19,7 @@ Whats new in SwiftUI and initial thoughts on the new features.
 - Avkit
 - Safari Links in SwiftUI 
 - Date Picker
+- Disclosure Groups
 -
 -
 - Window Groups
