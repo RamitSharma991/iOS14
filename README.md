@@ -17,7 +17,7 @@ Whats new in SwiftUI and initial thoughts on the new features.
 - SpriteKit (Physics Body, Sprite nodes)
 - Color Picker, ProgressViews, Labels and Icons
 - Avkit
--
+- Safari Links in SwiftUI 
 -
 -
 - Window Groups
