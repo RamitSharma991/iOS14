@@ -21,6 +21,7 @@ Whats new in SwiftUI and initial thoughts on the new features.
 - Date Picker
 - Disclosure Groups
 - Toolbars and toolbar items with different placements
+- Bookmark
 -
 -
 - Window Groups
