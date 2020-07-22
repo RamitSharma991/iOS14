@@ -20,6 +20,7 @@ Whats new in SwiftUI and initial thoughts on the new features.
 - Safari Links in SwiftUI 
 - Date Picker
 - Disclosure Groups
+- Toolbars and toolbar items with different placements
 -
 -
 - Window Groups
