@@ -22,6 +22,7 @@ Whats new in SwiftUI and initial thoughts on the new features.
 - Disclosure Groups
 - Toolbars and toolbar items with different placements
 - Bookmarks
+- Sidebars
 -
 -
 - Window Groups
