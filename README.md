@@ -26,4 +26,4 @@ Whats new in SwiftUI and initial thoughts on the new features.
 -
 -
 - Window Groups
-- Document Groups
+- Document Groups, UniformTypeIdentifiers, Filewrappers
