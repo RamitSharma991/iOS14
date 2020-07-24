@@ -6,8 +6,7 @@
 
 
 <p align="center">
-![](https://github.com/RamitSharma991/Treads/blob/master/Screenshot%202019-09-13%20at%2012.21.11%20PM.png)
-![](https://github.com/RamitSharma991/iOS14/blob/master/Screenshot%202020-07-24%20at%206.20.10%20PM.png)
+< img src="https://github.com/RamitSharma991/iOS14/blob/master/Screenshot%202020-07-24%20at%206.20.10%20PM.png"/>
 </p>
 
 Whats new in SwiftUI and initial thoughts on the new features.
