@@ -30,7 +30,7 @@ Whats new in iOS14, SwiftUI and initial thoughts on the new features.
 - Sidebars
 - Uniform type Identifiers
 - Matched geometry
-- FullscreenModalView
+- Fullscreen Modal Views
 -
 -
 - Window Groups
