@@ -28,6 +28,7 @@ Whats new in iOS14, SwiftUI and initial thoughts on the new features.
 - Toolbars and toolbar items with different placements
 - Bookmarks
 - Sidebars
+- Matched geometry
 -
 -
 - Window Groups
