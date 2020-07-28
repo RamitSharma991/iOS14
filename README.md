@@ -31,6 +31,7 @@ Whats new in iOS14, SwiftUI and initial thoughts on the new features.
 - Uniform type Identifiers
 - Matched geometry
 - Fullscreen Modal Views
+- Date Formatter
 -
 -
 - Window Groups
