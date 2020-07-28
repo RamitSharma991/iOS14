@@ -32,6 +32,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Matched geometry
 - Fullscreen Modal Views
 - Date Formatter
+- Inset Grouped ListStyle
 -
 -
 - Window Groups
