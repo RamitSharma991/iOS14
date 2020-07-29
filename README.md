@@ -33,6 +33,8 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Fullscreen Modal Views
 - Date Formatter
 - Inset Grouped ListStyle
+- Image rendering modes
+- App overlays for app clips
 -
 -
 - Window Groups
