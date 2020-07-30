@@ -35,6 +35,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Inset Grouped ListStyle
 - Image rendering modes
 - App overlays for app clips
+- Export files to iCloud 
 -
 -
 - Window Groups
