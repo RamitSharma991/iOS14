@@ -37,7 +37,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - App overlays for app clips
 - Export files to iCloud 
 - AppStorage and UserDefaults
-- SceneStorage
+- SceneStorage, Push Notifications
 -
 -
 - Window Groups
