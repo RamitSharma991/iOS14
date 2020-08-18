@@ -40,11 +40,11 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - AppStorage and UserDefaults
 - SceneStorage, Push Notifications, NSUserActivity Information
 - unwrap Optionals directly in the function builders
-- App Clips: AppClip experience, NSUseractivity, smart app-banner
+- App Clips: AppClip experience, NSUseractivity, smart app-banner,NGC tags, Multiple app-clip experience
 -
 -
 - Window Groups
-- Document Groups, UniformTypeIdentifiers, Filewrappers, NGC tags, Multiple app-clip experience
+- Document Groups, UniformTypeIdentifiers, Filewrappers, 
 
 
 
