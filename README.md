@@ -13,6 +13,7 @@
 
 What's new in iOS14, SwiftUI and initial thoughts on the new features.
 
+
 - Extracted Views
 - Data driven coding approach
 - Insets 
