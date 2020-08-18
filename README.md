@@ -44,7 +44,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 -
 -
 - Window Groups
-- Document Groups, UniformTypeIdentifiers, Filewrappers, NGC tags
+- Document Groups, UniformTypeIdentifiers, Filewrappers, NGC tags, Multiple app-clip experience
 
 
 
