@@ -49,7 +49,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Document Groups, UniformTypeIdentifiers, Filewrappers
 
 <h> Swift 5.3 </h>
--
+- Multi-pattern catch clauses
 -
 
 
