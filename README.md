@@ -52,6 +52,8 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Multiple trailing closures
 - Synthesized Comparable conformance for enums
 - Type based Program entry points
+- self is no longer required in many places
+
 
 
 
