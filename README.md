@@ -51,7 +51,8 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 <h> Swift 5.3 </h>
 - Multi-pattern catch clauses
 - Multiple trailing closures
-- 
+- Synthesized Comparable conformance for enums
+
 
 
 
