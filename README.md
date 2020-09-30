@@ -51,6 +51,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Multi-pattern catch clauses
 - Multiple trailing closures
 - Synthesized Comparable conformance for enums
+- Type based Program entry points
 
 
 
