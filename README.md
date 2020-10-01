@@ -53,6 +53,10 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Synthesized Comparable conformance for enums
 - Type based Program entry points
 - self is no longer required in many places
+- where clause on contextually generic declarations
+- Enum cases as prototcol witness
+- 
+
 
 
 
