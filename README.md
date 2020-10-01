@@ -55,7 +55,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - self is no longer required in many places
 - where clause on contextually generic declarations
 - Enum cases as prototcol witness
-- 
+- A new float type
 
 
 
