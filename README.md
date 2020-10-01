@@ -56,6 +56,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - where clause on contextually generic declarations
 - Enum cases as prototcol witness
 - A new float type
+- Swift Package Manager gains binary dependencies, resources and more
 
 
 
