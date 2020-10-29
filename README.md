@@ -43,6 +43,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - App Clips: AppClip experience, NSUseractivity, smart app-banner,NGC tags, Multiple app-clip experience
 - Transitions in SwiftUI: Triggering transitions, Basic Transitions(scale, move, offset, slide, opacity), Combining Transitions, Asymmetric and Custom transitions.
 - ScribbleUX
+- Swift service discovery
 - Toggle customization
 - Declarative UI in CollectionView Headers and Footers
 - SwiftUI animations
