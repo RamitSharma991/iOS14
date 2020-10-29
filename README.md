@@ -44,6 +44,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Transitions in SwiftUI: Triggering transitions, Basic Transitions(scale, move, offset, slide, opacity), Combining Transitions, Asymmetric and Custom transitions.
 - ScribbleUX
 - Toggle customization
+- Declarative UI in CollectionView Headers and Footers
 - SwiftUI animations
 -
 - Window Groups
