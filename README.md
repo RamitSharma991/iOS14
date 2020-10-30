@@ -46,7 +46,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Swift service discovery
 - Toggle customization
 - Declarative UI in CollectionView Headers and Footers
-- SwiftUI animations
+- SwiftUI animations: Implicit animations
 -
 - Window Groups
 - Document Groups, UniformTypeIdentifiers, Filewrappers
