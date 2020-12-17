@@ -49,7 +49,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Toggle customization
 - Declarative UI in CollectionView Headers and Footers
 - SwiftUI animations: Implicit animations, Explicit animations, Loading indicators(Circular and Bar), 3D RotationEffect, Animated Backgrounds woth Paths and Bezier curves.
--
+- Paths: making figures with path, Creating Pie Charts 
 - Window Groups
 - Document Groups, UniformTypeIdentifiers, Filewrappers
 
