@@ -52,6 +52,7 @@ What's new in iOS14, SwiftUI and initial thoughts on the new features.
 - Paths: making figures with path, Creating Pie Charts 
 - Window Groups
 - Document Groups, UniformTypeIdentifiers, Filewrappers
+- Protocols: Equatabble
 
 <h> Swift 5.3 </h>
 - Multi-pattern catch clauses
