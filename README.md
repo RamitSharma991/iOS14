@@ -56,7 +56,7 @@ _ Swift UI Animated Shimmer effect for text
 - Window Groups
 - Document Groups, UniformTypeIdentifiers, Filewrappers
 - Protocols: Equatabble, Hashable, Identifiable, Comparable 
-- ProgressViews, CardViews, Carousel Slider
+- ProgressViews, CardViews, Carousel Slider, Hero Animations
 
 <h> Swift 5.3 </h>
 - Multi-pattern catch clauses
