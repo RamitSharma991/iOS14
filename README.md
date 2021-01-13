@@ -73,4 +73,7 @@ _ Swift UI Animated Shimmer effect for text
 
 
 
+
+
+
 *Please check the Features Branch to access the complete list of features(with code) as stated above.
