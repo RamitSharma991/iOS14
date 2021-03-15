@@ -67,6 +67,7 @@ _ Swift UI Animated Shimmer effect for text
 - Enum cases as prototcol witness
 - A new float type
 - Swift Package Manager gains binary dependencies, resources and more
+- Swift Crypto
 
 
 
