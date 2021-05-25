@@ -69,6 +69,8 @@ _ Swift UI Animated Shimmer effect for text
 - A new float type
 - Swift Package Manager gains binary dependencies, resources and more
 - Swift Crypto
+- result builders for action sheets in SwiftUI
+- Compositional Layouts and floating headers
 
 
 
