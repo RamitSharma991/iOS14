@@ -70,6 +70,7 @@ _ Swift UI Animated Shimmer effect for text
 - Swift Crypto
 - result builders for action sheets in SwiftUI
 - Compositional Layouts and floating headers
+- Wrapping Dependencies in SwiftUI
 
 
 
